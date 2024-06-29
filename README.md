@@ -1,22 +1,36 @@
-# Evil Jokers (Evil Monkeys)
-EvilJoker (which was called EvilMokeys first) is a pure C++ Game built with wxWidget .
+# Evil Joker
 
-## Dependency
-- wxWidget (https://www.wxwidgets.org)
-- OpenGL (https://www.opengl.org)
+EvilJoker (previously called EvilMonkeys) is a pure C++ game built with wxWidgets.
 
-## Instruction
+## Description
 
-1. Open the solution and configre visual studio with wxWidget.
-2. You can change the Player Tile and Enemy Tile image which can be found inside the data.
-3. Just build the project
+EvilJoker is a simple game developed using C++ and wxWidgets, showcasing basic game development techniques and concepts.
 
+## Dependencies
 
-## Dont get Annoyed  
+- **wxWidgets**: [wxWidgets](https://www.wxwidgets.org)
+- **OpenGL**: [OpenGL](https://www.opengl.org)
 
-- The main player image is my photo (cause im lazy to change it.)
-- I didnt write a complete documentation onhow the game is wired.(Will try if I got time).
+## Setup Instructions
 
+1. **Configuration**: Open the solution and configure Visual Studio with wxWidgets.
+2. **Customization**: You can change the Player Tile and Enemy Tile images found inside the `data` folder.
+3. **Build**: Build the project using Visual Studio.
 
+## Notes
 
-    
+- The main player image is a placeholder and can be replaced.
+- Complete documentation on the game's internal workings is not provided yet but will be added as time permits.
+
+## Legal Disclaimer
+
+MIT License 
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any queries, please [create an issue](https://github.com/mikimaine/evil-joker/issues).
+
